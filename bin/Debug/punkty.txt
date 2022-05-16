@@ -1,0 +1,2 @@
+Punkty gracza lewego(Marko):1
+Punkty gracza prawego(Szynko):0
